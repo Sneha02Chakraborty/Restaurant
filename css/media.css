@@ -1,0 +1,109 @@
+@media(max-width: 768px){
+  
+    #events{
+        display: none;
+    }
+    #testimonials{
+        display: none;
+    }
+    .why-box{
+        margin-top: 30px;
+    }
+    .chefs-content{
+        margin-top: 30px;
+    }
+    .footer-info1 ,.footer-info2,.footer-info3{
+        margin-top: 30px;
+    }
+    #events{
+        display: none;
+    }
+    #header{
+        padding: 0;
+    }
+    #about{
+        padding: 0;
+    }
+    #why-us{
+        padding: 0;
+
+    }
+    #menu{
+        padding: 0;
+    }
+    .food-items{
+        text-align: center;
+    }
+    #specials{
+        padding: 0;
+    }
+    .special-bar{
+        text-align: center;
+    }
+    .special-text{
+        text-align: center;
+    }
+    #book{
+        padding: 0;
+    }
+    #gallery{
+        padding: 0;
+    }
+    #chefs{
+        padding: 0;
+    }
+    #contact{
+        padding: 0;
+    }
+    .contact-button{
+        text-align: center;
+    }
+    
+    #footer{
+        padding: 0;
+    }
+    .footer-content{
+        text-align: center;
+    }
+}
+@media(max-width: 420px){
+    .head-text h1{
+        font-size: 30px !important;
+    }
+    .contact-address h4{
+        bottom: 71px;
+    }
+    .why-title p{
+        font-size: 22px;
+    }
+    .why-text span{
+        font-size: 18px;
+    }
+    .why-text h4{
+        font-size: 19px;
+    }
+    .menu-title p{
+        font-size: 22px;
+    }
+    .special-title p{
+        font-size: 22px;
+    }
+    .book-title p{
+        font-size: 22px;
+    }
+    .gallery-title p{
+        font-size: 22px;
+    }
+    .chefs-title p{
+        font-size: 22px;
+    }
+    .contact-title p{
+        font-size: 22px;
+    }
+    .about-text h4{
+        font-size: 22px;
+    }
+    .footer-info1 h2{
+        font-size: 22px;
+    }
+}
